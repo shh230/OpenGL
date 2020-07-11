@@ -1,0 +1,32 @@
+# Xcode 7 user data
+xcuserdata/
+xcshareddata/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Other
+*.moved-aside
+*.xcuserstate
+*.xccheckout
+project.xcworkspace  
+xcuserdata  
+UserInterfaceState.xcuserstate  
+project.xcworkspace/  
+xcuserdata/  
+UserInterface.xcuserstate 
+
+# Build generated
+/OpenGL--Primitive//build/*
+/OpenGL环境搭建/build/*
