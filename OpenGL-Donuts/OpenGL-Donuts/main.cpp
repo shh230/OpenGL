@@ -139,6 +139,7 @@ void RenderScene(void) {
         glDisable(GL_DEPTH_TEST);
     }
     
+    glDepthMask(GL_FALSE);
     // 观察者矩阵压入模型矩阵中
     modelViewMatix.PushMatrix(viewFrame);
     
